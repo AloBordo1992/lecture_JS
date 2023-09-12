@@ -5,7 +5,7 @@
   "homepage": "https://AloBordo1992.github.io/lecture_JS",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /lecture_JS/"
   },
   "repository": {
     "type": "git",
